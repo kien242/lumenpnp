@@ -553,19 +553,15 @@
     ],
     [
       "befebf8a-3d46-4bcf-a89d-dc4a8a7bfe3b",
-      "Motor left"
+      "Motor 1"
     ],
     [
       "30ed8d8e-5be3-4e10-a129-e64c0ee79386",
-      "Motor right"
+      "Motor 2"
     ],
     [
       "9e697e46-d502-48a5-8498-4118d1f6c92d",
       "Motor Y"
-    ],
-    [
-      "00000000-0000-0000-0000-00006057b851",
-      "Motor AUX"
     ],
     [
       "00000000-0000-0000-0000-00005eb0c5a0",
@@ -600,12 +596,24 @@
       "Lighting"
     ],
     [
+      "caa0053a-75f1-4fcf-9f22-ebf899d7ea97",
+      "Motor 3"
+    ],
+    [
       "02705e7d-b250-4955-94ce-1e1db6770300",
       "Limit switches"
     ],
     [
+      "b027125a-b7cc-4293-90b6-7fc90b5a1b99",
+      "Motor 4"
+    ],
+    [
       "cdb39402-8548-471b-84fd-7e7ff4d5b5c8",
       "Aux header 3"
+    ],
+    [
+      "9cd9b2ce-063d-4dc8-9104-67842d05ebc7",
+      "Motor AUX"
     ],
     [
       "e42a41b2-396d-4f02-8c5f-05a8dce2e3c6",
